@@ -5,4 +5,4 @@ Notmark is licensed under the Creative Commons Attribution 4.0 International Lic
 To view a copy of this license, visit:
 https://creativecommons.org/licenses/by/4.0/
 
-Copyright (c) 2026 YourName
+Copyright (c) 2026 Als Dev
